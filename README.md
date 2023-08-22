@@ -40,8 +40,50 @@ Contribuindo
 Se você deseja contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório, fazer as alterações desejadas e enviar um pull request. Ficaremos felizes em receber contribuições para melhorar e aprimorar este exemplo de site.
 
 Contato
-Se você tiver dúvidas, sugestões ou feedback, não hesite em entrar em contato conosco. Você pode preencher o formulário na página "Contato" ou nos enviar um e-mail em contato@hypergamesbrasil.com.
+Se você tiver dúvidas, sugestões ou feedback, não hesite em entrar em contato conosco. Você pode preencher o formulário na página "Contato" ou nos enviar um e-mail em lucasgb290902@gmail.com.
 
 Esperamos que este exemplo de site seja útil para você no aprendizado e na criação de sites responsivos atraentes. Divirta-se explorando e personalizando a HyperGamesBrasil!
 
 Nota: Este é um site modelo criado com fins educativos e não representa uma loja de jogos real. Todas as imagens e informações são fictícias.
+
+
+
+Welcome to HyperGamesBrasil - Your Online Game Store HyperGamesBrasil Logo
+
+Welcome to the HyperGamesBrasil repository, a model website of an online game store developed using HTML and CSS. This site is fully responsive, meaning it automatically adapts to different screen sizes, providing a consistent experience across mobile devices, tablets, and desktops.
+
+Technologies Used: HTML (HyperText Markup Language): Used to structure the website's content, including headers, paragraphs, lists, and other elements.
+
+CSS (Cascading Style Sheets): Used to define the visual style of the website, including colors, fonts, margins, spacing, and overall layout.
+
+Responsiveness: You have implemented responsive design techniques, allowing the website to adjust automatically to different screen sizes, ensuring a consistent experience on various devices.
+
+Images: Images of games, the logo, and other visual elements of the site have been incorporated using HTML tags.
+
+Navigation Menu: A navigation menu has been created using HTML and CSS to allow users to access different sections of the site.
+
+Links and Anchors: Tags have been used to create links to other pages and internal anchors within the site.
+
+Git and Version Control: Git has been used to track changes in the website's code over time, making it easier to manage and collaborate.
+
+How to Use this Repository If you wish to explore and customize the HyperGamesBrasil site for your own needs, here are the basic steps:
+
+Clone the Repository: Clone this repository to your local development environment.
+
+bash Copy code git clone https://github.com/your-user/hypergamesbrasil.git Browse the Files: Explore the HTML and CSS files in the repository. The overall layout is defined in the index.html file, while the style is defined in the style.css file.
+
+Customize the Content: Replace images, text, and other content elements with your own data. You can add more games, adjust descriptions, etc.
+
+Adjust the Style: If desired, you can customize colors, fonts, and other visual aspects in the style.css file to achieve the desired aesthetic.
+
+Test Responsiveness: Check how the site behaves on different devices by adjusting the browser window size or using inspection tools to simulate different screen sizes.
+
+Host the Site: Once satisfied with the changes, you can host the site on a web server or free hosting platforms for others to access.
+
+Contributing If you wish to contribute to this project, feel free to fork the repository, make desired changes, and submit a pull request. We'll be happy to receive contributions to enhance and improve this example website.
+
+Contact If you have questions, suggestions, or feedback, don't hesitate to get in touch. You can fill out the form on the "Contact" page or send us an email at lucasgb290902@gmail.com.
+
+We hope this example website proves useful to you in learning and creating attractive responsive sites. Enjoy exploring and customizing HyperGamesBrasil!
+
+Note: This is a model website created for educational purposes and does not represent a real game store. All images and information are fictional.
