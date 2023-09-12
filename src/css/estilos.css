@@ -70,7 +70,7 @@ header{
 
 a.main-menu_nav, a.main-menu_nav:link, a.main-menu_nav:visited{
     text-decoration: none; /* Remove o sublinhado */
-    color: #ff0080; /* Define a cor do link */
+    color: var(--cinza); /* Define a cor do link */
 }
 
 
